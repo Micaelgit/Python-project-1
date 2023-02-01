@@ -11,3 +11,4 @@ Sales Tax: ${sales_tax:>9,.2f}
 Total:     ${total:>9,.2f}
 """
 print(output)
+#added comment
